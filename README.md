@@ -1,2 +1,6 @@
 # mksine
-Command line tool to generate PCM sine waves
+
+## Installation
+`./build.sh`
+
+## Usage
